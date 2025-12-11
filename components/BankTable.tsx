@@ -42,7 +42,7 @@ export const BankTable: React.FC<BankTableProps> = ({
           <thead>
             <tr className="bg-gray-50 border-b border-gray-200 text-xs uppercase text-gray-500 tracking-wider">
               <th className="px-6 py-4 font-semibold w-1/4">Банк</th>
-              <th className="px-6 py-4 font-semibold w-2/5">Ипотечные программы</th>
+              <th className="px-6 py-4 font-semibold w-2/5">Ипотечные программыgggggg</th>
               <th className="px-6 py-4 font-semibold text-center w-1/12">Статус</th>
               <th className="px-6 py-4 font-semibold text-right w-1/6">Действия</th>
             </tr>
